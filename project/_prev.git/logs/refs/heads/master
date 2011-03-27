@@ -1,0 +1,22 @@
+0000000000000000000000000000000000000000 ac95104f03de8a74378c140d7084257c7ba50f14 Sudhakar <sudhar@.corporate.thoughtworks.com> 1298898210 +0530	commit (initial): Sudhakar/Alex : Created calendar and event listeners
+ac95104f03de8a74378c140d7084257c7ba50f14 fbeb1051468b625c9020fc04fb1c01e9a190020f Sudhakar <sudhar@.corporate.thoughtworks.com> 1298986133 +0530	commit: Sudhakar/Alex/Vivek : Calendar view component complete
+fbeb1051468b625c9020fc04fb1c01e9a190020f 6b3ca207fbc4242470d8cf99cc772583f20f8554 Sudhakar <sudhar@.corporate.thoughtworks.com> 1299085879 +0530	commit: Sudhakar : Changed the selected date style and refactored the CalendarAdapter
+6b3ca207fbc4242470d8cf99cc772583f20f8554 d1c9d5d8eabf0e1eb22dff1420d1512f544e1355 Sudhakar <sudhar@.corporate.thoughtworks.com> 1299240637 +0530	commit: Sudhakar/Vivek : Completed task list along with saving the dates
+d1c9d5d8eabf0e1eb22dff1420d1512f544e1355 5cd8652ef8f03b50462dd6e704a46e4221a55e12 Sudhakar <sudhar@.corporate.thoughtworks.com> 1299507225 +0530	commit: Sudhakar/vivek: Add,Edit,Delete task complete
+5cd8652ef8f03b50462dd6e704a46e4221a55e12 4f675dd73651bc75be37f60c7060870753a0867c Sudhakar <sudhar@.corporate.thoughtworks.com> 1299607777 +0530	commit: Styling and defect fixes
+4f675dd73651bc75be37f60c7060870753a0867c 32ae3d10ffbd27e971df190aeb55d348c278d931 Sudhakar <sudhar@.corporate.thoughtworks.com> 1299955307 +0530	commit: Sudhakar: added month browser, future dates disabled, fixed sytling defects, moved calendar view to xml
+32ae3d10ffbd27e971df190aeb55d348c278d931 7bb9b139544fc25d9f3e0170e6649eaa91dbc982 Sudhakar <sudhar@.corporate.thoughtworks.com> 1300029717 +0530	commit: Sudhakar: Added background images to the activities
+7bb9b139544fc25d9f3e0170e6649eaa91dbc982 bbc298872485a43c8a16973dad687905e6177564 Sudhakar <sudhar@.corporate.thoughtworks.com> 1300193472 +0530	commit: First release version
+bbc298872485a43c8a16973dad687905e6177564 d444c1269134eb920856a6ac071e71a75b7bce76 Sudhakar <sudhar@.corporate.thoughtworks.com> 1300345238 +0530	commit: Sudhakar: Removed the splash screen and moved it to about dialog
+d444c1269134eb920856a6ac071e71a75b7bce76 e78d1f281d221b16c3fff1cd41f367a60d36edc8 Sudhakar <sudhar@.corporate.thoughtworks.com> 1300349465 +0530	commit: Sudhakar: Minor UI tweaks to about screen
+e78d1f281d221b16c3fff1cd41f367a60d36edc8 b0b00e77c1e32211600acee0d0ad9c7aad6d145f Sudhakar <sudhar@.corporate.thoughtworks.com> 1300473549 +0530	commit: Sudhakar: Added menu to add, edit & delete
+b0b00e77c1e32211600acee0d0ad9c7aad6d145f 37e7ba7597d31d15d1a683c5ed9457f3985b56a8 Sudhakar <sudhar@.corporate.thoughtworks.com> 1300473941 +0530	commit: Sudhakar: Removed dead code
+37e7ba7597d31d15d1a683c5ed9457f3985b56a8 02af9b47473ea292fc7fa9b53f62fc78020a76ae Sudhakar <sudhar@.corporate.thoughtworks.com> 1300554439 +0530	commit: Version 1.2 release version
+02af9b47473ea292fc7fa9b53f62fc78020a76ae b699c0f7885ea66373d45bca94852eb821274d94 Sudhakar <sudhar@Sudhakarr.corporate.thoughtworks.com> 1300619802 +0530	commit: Added notes feature for tasks
+b699c0f7885ea66373d45bca94852eb821274d94 56c46228fd4b19e3bf1d4510106053c34be72791 Sudhakar <sudhar@.corporate.thoughtworks.com> 1300619981 +0530	commit: Sudhakar: Some conflict with git command line and git eclipse egit
+56c46228fd4b19e3bf1d4510106053c34be72791 54ba2ad7284ac137ed9caaea0ebe72271a32cc46 Sudhakar <sudhar@.corporate.thoughtworks.com> 1300621342 +0530	commit: Sudhakar: Added new icons for add,delete and update
+54ba2ad7284ac137ed9caaea0ebe72271a32cc46 41a4c24ba1d2673e6d5250b2519b0e3cb96635fe Sudhakar <sudhar@.corporate.thoughtworks.com> 1300691605 +0530	commit: Sudhakar,Vivek : Changed image resolution
+41a4c24ba1d2673e6d5250b2519b0e3cb96635fe 2b7f0f47bae433315c811b8123096c076cd6286b Sudhakar <sudhar@.corporate.thoughtworks.com> 1300712837 +0530	commit: Sudhakar,Vivek : Home widget done without ui refresh
+2b7f0f47bae433315c811b8123096c076cd6286b 7574a9b7c1c9880f22e91c0d8c0affec4c3a0980 Sudhakar <sudhar@.corporate.thoughtworks.com> 1300977138 +0530	commit: Sudhakar,Vivek : Fixed the home widget not identified by instance issue
+7574a9b7c1c9880f22e91c0d8c0affec4c3a0980 79f654c0292909ebc44ecfaa581974192940c3c9 Sudhakar <sudhar@.corporate.thoughtworks.com> 1301063390 +0530	commit: Sudhakar/Vivek: Home screen WIP
+79f654c0292909ebc44ecfaa581974192940c3c9 3936bce1868958753738a207e703566ad821a225 Sudhakar <sudhar@.corporate.thoughtworks.com> 1301063406 +0530	commit: Sudhakar/Vivek: Home screen WIP
